@@ -56,3 +56,37 @@ Check out the live demo of the Cloneyoutube project at [https://cloneyoutubegro.
 ## Credits
 
 - This project was developed as part of an internship or personal learning experience and does not claim to have any affiliation with YouTube.
+
+## Screenshots
+## 
+HOME
+
+![Home](https://github.com/kholiator/Cloneyoutube/blob/master/Screenshots/2023-05-30%20(7).png?raw=true)
+
+### 
+LOADING BAR
+
+![Loading Bar](https://github.com/kholiator/Cloneyoutube/blob/master/Screenshots/2023-05-30%20(5)-2.png?raw=true)
+### 
+VIDEO AND DETAILS
+
+![App Screenshot](https://github.com/kholiator/Cloneyoutube/blob/master/Screenshots/2023-05-30%20(9).png?raw=true)
+### 
+Responsive (Tablet)
+
+![Responsive (Tablet)](https://github.com/kholiator/Cloneyoutube/blob/master/Screenshots/2023-05-30%20(12).png?raw=true)
+### 
+![Responsive (Tablet)](https://github.com/kholiator/Cloneyoutube/blob/master/Screenshots/2023-05-30%20(13).png?raw=true)
+### 
+Responsive (Mobile)
+
+![Responsive (Mobile)](https://github.com/kholiator/Cloneyoutube/blob/master/Screenshots/2023-05-30%20(10).png?raw=true)
+### 
+![Responsive (Mobile)](https://github.com/kholiator/Cloneyoutube/blob/master/Screenshots/2023-05-30%20(11).png?raw=true)
+
+
+
+
+
+
+
