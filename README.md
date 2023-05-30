@@ -53,10 +53,6 @@ Check out the live demo of the Cloneyoutube project at [https://cloneyoutubegro.
 - Axios
 - API integration
 
-## Credits
-
-- This project was developed as part of an internship or personal learning experience and does not claim to have any affiliation with YouTube.
-
 ## Screenshots
 ## 
 HOME
